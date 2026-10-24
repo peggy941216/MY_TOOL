@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792832904|1422127295';
+const CACHE_VERSION = '1792833208|63698825';
 /** @type {string} */
 const CACHE_PREFIX = 'Story_Editor-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
